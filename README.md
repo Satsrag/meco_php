@@ -86,9 +86,9 @@ $result = TranslateService::translate(
 | Encoding | Type | Description |
 |----------|------|-------------|
 | Zvvnmod | Shape | Intermediate shape encoding / 中间字形编码 |
-| Delehi | Letter | Standard Mongolian letter encoding in practical implementations / 实际实现中常见的标准蒙古文字母编码 |
+| Delehi | Letter | Standard Mongolian letter encoding implemented by Delehi Company / Delehi公司实现的标准蒙古文字母编码 |
 | MenkShape | Shape | Menk shape encoding / 蒙科字形编码 |
-| MenkLetter | Letter | Menk letter encoding used in practical ecosystems / 实际生态中常见的蒙科字母编码 |
+| MenkLetter | Letter | Standard Mongolian letter encoding implemented by MenkSoft Company / MenkSoft公司实现的标准蒙古文字母编码 |
 | Z52 | Shape | Z52 shape encoding / Z52 字形编码 |
 | Oyun | Letter | Not implemented separately; behavior is close to Delehi in practice / 未单独实现，实践中与 Delehi 行为接近 |
 
