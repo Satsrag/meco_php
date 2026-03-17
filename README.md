@@ -260,13 +260,20 @@ tests/
 ## License / 许可协议
 
 - **English**  
-  This project is released under the **MIT License**. In practice, this means the repository is intended to stay open and easy to use: you can use it, study it, modify it, and integrate it into your own projects, subject to the MIT license terms.
+  This project is licensed under the **Apache License 2.0**, inheriting and aligning with the license of the original `east-mod/meco` Java library.
 
 - **中文**  
-  本项目使用 **MIT License**。从实际使用角度来说，这意味着本仓库尽量保持开放、易用：你可以在符合 MIT 协议条款的前提下，自由使用、学习、修改并集成到自己的项目中。
+  本项目基于 **Apache License 2.0** 协议开源，与原始的 `east-mod/meco` Java 库保持一致的许可。
 
 - **English**  
-  If you improve alignment with the original library, fix bugs, or add tests, contributions and issue reports are welcome.
+  In practice, this means the repository is highly open: you are free to use it commercially, modify it, distribute it, and integrate it into your own projects, provided you include the original copyright notice and state any changes.
 
 - **中文**  
-  如果你完善了与原库的对齐、修复了问题，或者补充了测试，也欢迎提交 issue 或贡献修改。
+  从实际使用角度来说，这意味着本仓库极其开放：你可以自由地用于商业项目、修改、分发并集成到自己的项目中，只需保留原版权声明和许可协议即可。
+## Acknowledgments / 致谢
+
+- **English**  
+  This PHP port was created by **satsrag**, but is entirely based on the original [east-mod/meco](https://github.com/east-mod/meco) library created by **zorigt (east-mod)**. The core rules, mappers, and architectural design belong to the original author.
+
+- **中文**  
+  这个 PHP 移植版本由 **satsrag** 创建，但它完全基于 **zorigt (east-mod)** 编写的原始 [east-mod/meco](https://github.com/east-mod/meco) 库。核心转换规则、映射表以及架构设计均归功于原作者。
