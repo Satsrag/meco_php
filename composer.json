@@ -1,0 +1,15 @@
+{
+    "name": "eastmod/meco",
+    "description": "Mongolian Encoding Converter - PHP port of east-mod/meco",
+    "type": "library",
+    "license": "MIT",
+    "require": {
+        "php": ">=7.2",
+        "ext-mbstring": "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "Meco\\": "src/"
+        }
+    }
+}
